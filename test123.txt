@@ -6,4 +6,30 @@ I will rock u.
 <bbb222>
 <nnn>
 <c>
+<<<<<<< HEAD
+<TestGit>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+wewewewewee
+=======
 <TestGitaaaaaaaaaaaaa>
+>>>>>>> d667a1db36c46ed8ff64c9bf787230f80298bc33
